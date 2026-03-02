@@ -28,7 +28,6 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/YOUR_USERNAME.png" width="80" style="border-radius:50%"/><br/>
       <strong>Aggelos Yiannakou</strong><br/>
       <sub>Senior Data Analyst · Business Intelligence Engineer</sub><br/><br/>
     </td>
