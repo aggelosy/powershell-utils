@@ -6,13 +6,13 @@
     Detects pre-installed bloatware by category and severity, reports findings,
     and optionally removes selected apps. Safe by default — no changes without confirmation.
 .AUTHOR
-    Your Name Here
+    Aggelos Y
 .COPYRIGHT
-    © 2026 Your Name Here. All rights reserved.
+    © 2026 Aggelos Y. All rights reserved.
 .NOTES
     Version   : 2.0
     Created   : 2026-03-02
-    Property of: Your Name / Your Company
+    Property of: Aggelos Y
 #>
 
 Set-StrictMode -Version Latest
@@ -96,10 +96,10 @@ function Write-Header {
     Clear-Host
     $banner = @"
 ╔══════════════════════════════════════════════════════════════╗
-║        Windows 11 Bloatware Detector  v2.0                  ║
-║        Running as Administrator — Safe Scan Mode            ║
-║        Property of: Your Name / Your Company                ║
-║        © 2026 — All Rights Reserved                         ║
+║        Windows 11 Bloatware Detector  v2.0                   ║
+║        Running as Administrator — Safe Scan Mode             ║
+║        Property of: Aggelos Y                                ║
+║        © 2026 — All Rights Reserved                          ║
 ╚══════════════════════════════════════════════════════════════╝
 "@
     Write-Host $banner -ForegroundColor Cyan
