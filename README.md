@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=PowerShell%20Toolkit&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Automation%20%7C%20System%20Management%20%7C%20Utilities&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=PowerShell%20Utilities%20Toolkit&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Automation%20%7C%20System%20Management%20%7C%20Utilities&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- BADGES -->
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B%20%7C%207.x-blue?style=for-the-badge&logo=powershell&logoColor=white)
