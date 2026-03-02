@@ -21,21 +21,6 @@
 
 </div>
 
----
-
-## 👤 Author
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Aggelos Yiannakou</strong><br/>
-      <sub>Senior Data Analyst · Business Intelligence Engineer</sub><br/><br/>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📋 Scripts
 
 | # | Script | Category | Description | Parameters | Admin Required |
