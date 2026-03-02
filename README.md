@@ -17,8 +17,6 @@
 
 <br/>
 
-[📋 Scripts](#-scripts) • [🚀 Getting Started](#-getting-started)
-
 </div>
 
 ## 📋 Scripts
