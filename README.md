@@ -38,13 +38,15 @@
 
 ## 📋 Scripts
 
-| # | Script | Category | Description | Admin Required |
-|---|--------|----------|-------------|:--------------:|
-| 01 | [`BloatwareDetector.ps1`](./BloatwareDetector/) | 🛡️ System Cleanup | Detects & removes Windows 11 pre-installed bloatware with severity scoring | ✅ |
-| 02 | *(coming soon)* | ⚙️ Automation | — | — |
-| 03 | *(coming soon)* | 📊 Diagnostics | — | — |
+| # | Script | Category | Description | Parameters | Admin Required |
+|---|--------|----------|-------------|------------|:--------------:|
+| 01 | [`BloatwareDetector.ps1`](./BloatwareDetector/) | 🛡️ System Cleanup | Detects & removes Windows 11 pre-installed bloatware with severity scoring, startup scan & CSV export | — | ✅ |
+| 02 | [`ProcessDashboard.ps1`](./ProcessDashboard/) | 📊 Monitoring | Live real-time console dashboard of top CPU/RAM processes with color-coded thresholds & system vitals | `-RefreshSeconds` `-TopProcessCount` `-NoClear` | ✅ |
+| 03 | [`PowerShellDiagnostics.ps1`](./PowerShellDiagnostics/) | 🔍 Diagnostics | Full audit of execution policies, AppLocker, Group Policy, SRP, Defender, language mode & live execution tests | `-OutputFolder` `-NoAutoOpen` | ✅ |
+| 04 | *(coming soon)* | ⚙️ Automation | — | — | — |
 
 > More scripts added regularly. ⭐ **Star this repo** to stay updated.
+
 
 ---
 
