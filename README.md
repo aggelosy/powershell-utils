@@ -17,7 +17,7 @@
 
 <br/>
 
-[📋 Scripts](#-scripts) • [🚀 Getting Started](#-getting-started) • [📖 Documentation](#-documentation) • [🤝 Contributing](#-contributing) • [📜 License](#-license)
+[📋 Scripts](#-scripts) • [🚀 Getting Started](#-getting-started)
 
 </div>
 
